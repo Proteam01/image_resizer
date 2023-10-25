@@ -1,0 +1,7 @@
+scan_directory: '/input'
+
+target_dir: '/output'
+
+scale_factor: 1800
+
+threads: 12
